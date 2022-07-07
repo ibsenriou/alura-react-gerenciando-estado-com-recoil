@@ -1,3 +1,6 @@
+# Alura React: Gerenciando Estado Com Recoil
+Curso de React: Gerenciando Estado com Recoil da Formação React com Typescript da plataforma Alura
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
