@@ -1,6 +1,6 @@
 import React from "react";
 import { IEvento } from "../../interfaces/IEvento";
-import useDeletarEvento from "../state/hooks/useDeletarEvento";
+import useDeletarEvento from "../../state/hooks/useDeletarEvento";
 import style from "./Evento.module.scss";
 import EventoCheckbox from "./EventoCheckbox";
 

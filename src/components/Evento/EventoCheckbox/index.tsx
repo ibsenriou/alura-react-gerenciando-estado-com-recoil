@@ -1,6 +1,6 @@
 import React from "react";
 import { IEvento } from "../../../interfaces/IEvento";
-import useAtualizarEvento from "../../state/hooks/useAtualizarEventos";
+import useAtualizarEvento from "../../../state/hooks/useAtualizarEventos";
 
 const EventoCheckbox: React.FC<{ evento: IEvento }> = ({ evento }) => {
   const atualizarEvento = useAtualizarEvento();
